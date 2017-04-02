@@ -1,4 +1,12 @@
-		
+	/*Pradhana Syukur
+	  14 111 074
+	  Tif Rp 14 A
+	 */
+
+
+
+
+
 	import java.util.Scanner;
 		public class IpMahasiswa {
 
